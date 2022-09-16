@@ -1,0 +1,6 @@
+#btn {
+    display: flex;
+    flex-flow: wrap nowrap;
+    justify-content: space-between;
+    height: 1.5rem;
+}
